@@ -1,1 +1,1 @@
-Pacage properly working with ndMaterial installed
+Pacage properly working with ngMaterial installed
