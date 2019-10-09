@@ -1,0 +1,1 @@
+Pacage properly working with ndMaterial installed
