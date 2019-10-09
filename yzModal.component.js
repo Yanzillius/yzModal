@@ -8,7 +8,7 @@ directive('yzModal', function () {
         scope:{
             header:'@'
         },
-        templateUrl: 'services/yzModal/yzModal.template.html',
+        templateUrl: '../yzModal.template.html',
         link: function (scope, element, attrs, ctrl, transclude) {
             transclude(scope, function (clone, scope) {
 
