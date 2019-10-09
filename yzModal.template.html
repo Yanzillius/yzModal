@@ -1,0 +1,17 @@
+<md-button class="md-raised md-warn" ng-click="modalActive = true">open popup</md-button>
+
+<div class="modalWrapper" ng-show="modalActive"  >
+    <div class="modalWindow" >
+        <div class="modalHeader">
+            {{header}}
+        </div>
+        <div class="modalBtns">
+            <md-button class="md-fab md-mini" aria-label="Close modal" ng-click="modalActive = false">
+                <md-icon md-svg-src="img/icons/delete-white.svg"></md-icon>
+            </md-button>
+        </div>
+        <div class="modalContent">
+            <ng-transclude>
+        </div>
+    </div>
+</div>

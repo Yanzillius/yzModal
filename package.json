@@ -1,0 +1,15 @@
+{
+  "name": "yzmodal",
+  "version": "1.0.0",
+  "description": "training center moda chiki piki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modal",
+    "angularjs"
+  ],
+  "author": "pep",
+  "license": "ISC"
+}
