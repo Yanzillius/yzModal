@@ -1,6 +1,6 @@
 {
   "name": "yzmodal",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "training center moda chiki piki",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "angularjs"
   ],
   "author": "pep",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular-material": "^1.1.20"
+  }
 }

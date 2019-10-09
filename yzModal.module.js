@@ -1,1 +1,4 @@
-angular.module('yzModal',[]);
+angular.module('yzModal', [
+    'ngMaterial',
+    'ngMessages'
+]);
