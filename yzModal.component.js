@@ -6,7 +6,8 @@ directive('yzModal', function () {
         restrict: 'E',
         transclude: true,
         scope:{
-            header:'@'
+            header:'@',
+            btnText:'@'
         },
         templateUrl: '../yzModal.template.html',
         link: function (scope, element, attrs, ctrl, transclude) {
