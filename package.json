@@ -1,6 +1,6 @@
 {
   "name": "yzmodal",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "training center moda chiki piki",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "keywords": [
     "modal",
-    "angularjs"
+    "angularjs",
+    "popup",
+    "window"
   ],
   "author": "pep",
   "license": "ISC",
