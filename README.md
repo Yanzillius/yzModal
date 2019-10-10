@@ -17,6 +17,9 @@
     <script src="angular-aria.min.js"></script>
     <script src="angular-messages.min.js"></script>
     <script src="angular-material.min.js"></script>
+    
+    <script src="yzModal.module.js"></script>
+    <script src="yzModal.component.js"></script>
 
 ```
 2. Declare dependencies in your app:
